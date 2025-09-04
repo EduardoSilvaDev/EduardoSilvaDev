@@ -23,7 +23,9 @@ Sou desenvolvedor Python e entusiasta de web development.
 
 <div align = "center">
    ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical)
-   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendespann&layout=compact&langs_count=7&theme=radical"/>
+  
+   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical"/>
+   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <br><br>
