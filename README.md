@@ -19,7 +19,7 @@ Sou desenvolvedor Python e entusiasta de web development.
 - HTML | CSS | JavaScript
 - MySQL 
 
-
+<br><br>
 <div align="center">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical"/>
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
