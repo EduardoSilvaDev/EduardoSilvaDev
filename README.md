@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Eduardo Silva
 
-<!--
-**EduardoSilvaDev/EduardoSilvaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Python e entusiasta de web development.  
 
-Here are some ideas to get you started:
+## 🔭 Projetos atuais
+- (Vazio)
+  
+## 🌱 Atualmente estudando
+- Node.js
+- React
+- Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- LinkedIn: [meu-linkedin](https://www.linkedin.com/in/eduardo-silva-dev/)
+- Email: (vazio)
+
+## 💻 Skills
+- Python, JavaScript
+- HTML, CSS
+- MySQL, SQLAlchemy
+- C++ | C#
