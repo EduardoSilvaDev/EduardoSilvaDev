@@ -19,16 +19,10 @@ Sou desenvolvedor Python e entusiasta de web development.
 - HTML | CSS | JavaScript
 - MySQL 
 
-<br><br>
-
-<div align = "center">
-   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical"/>
-   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 <div align="center">
-   <img height="30em" src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical"/>
-   <img height="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
    <br><br>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30em"/>
    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30em"/>
