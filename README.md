@@ -17,5 +17,5 @@ Sou desenvolvedor Python e entusiasta de web development.
 ## 💻 Skills
 - Python, JavaScript
 - HTML, CSS
-- MySQL, SQLAlchemy
+- MySQL
 - C++ | C#
