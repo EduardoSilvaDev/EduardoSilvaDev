@@ -22,15 +22,16 @@ Sou desenvolvedor Python e entusiasta de web development.
 <br><br>
 
 <div align = "center">
-   ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical)
   
    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical"/>
-   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
+   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <br><br>
 
 
+<! -- ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSilva&show_icons=true&theme=radical) -->
+# testando comentario
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
