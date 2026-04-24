@@ -13,7 +13,7 @@ Sou desenvolvedor Python e entusiasta de web development.
 - Email: (vazio)
 
 ## 💻 Skills
-- Python 
+- Python | C#
 - HTML | CSS | JavaScript
 - MySQL 
 
