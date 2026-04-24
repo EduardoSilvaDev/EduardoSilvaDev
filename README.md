@@ -6,8 +6,6 @@ Sou desenvolvedor Python e entusiasta de web development.
 - (Vazio)
   
 ## 🌱 Atualmente estudando
-- Node.js
-- React
 - Django
 
 ## 📫 Como me encontrar
@@ -15,7 +13,7 @@ Sou desenvolvedor Python e entusiasta de web development.
 - Email: (vazio)
 
 ## 💻 Skills
-- Python | C++ | C#
+- Python 
 - HTML | CSS | JavaScript
 - MySQL 
 
